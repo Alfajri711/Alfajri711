@@ -21,17 +21,28 @@ Most recently, I’ve been exploring Advanced Artificial Intelligence in MSIB Ba
 ## Achievement
 Best Participant Artificial Intelligence Track MSIB Batch 5 at Startup Campus. 
 
-## 🛠 Skills
-- Python Language
-- Machine Learning
-- Data Analyst dan Statistic
-- Data Visualization
-- SQL Language
-- Microsoft Office. 
+<h1 align="center"> Skill Set 🛠</h1>
+<p align="center"> Skills in Python, Machine Learning, Data Analysis, and more</p>
 
-## Software
-- Google Colaboratory
-- DBeaver (MySQL)
-- Google Looker Studio
-- KNIME
-- Streamlit.
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/Machine%20Learning-0696D7?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Data%20Analysis%20and%20Statistics-4A90E2?style=for-the-badge&logo=scipy&logoColor=white">
+<img src="https://img.shields.io/badge/Data%20Visualization-6AB7FF?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
+
+</div>
+
+<h1 align="center"> Software </h1>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+<img src="https://img.shields.io/badge/DBeaver%20(MySQL)-372923?style=for-the-badge&logo=dbeaver&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white">
+<img src="https://img.shields.io/badge/KNIME-FDDA0D?style=for-the-badge&logo=knime&logoColor=black">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+
+</div>
