@@ -94,9 +94,9 @@ Feel free to reach out if you have any questions or would like to collaborate on
 - Data Science Track Mini Camp by Startup Campus. 
 
 ## Achievement
-- Best Participant Artificial Intelligence Track MSIB Batch 5 at Startup Campus. 
-= Most Favorite Mentee IBM Advance Artificial Intelligence at Infinite Learning Indonesia.
-= Best Product "Resikel" App by TALENTA Team at Infinite Learning Indonesia.
+- Best Participant Artificial Intelligence Track MSIB Batch 5 at Startup Campus.
+- Most Favorite Mentee IBM Advance Artificial Intelligence at Infinite Learning Indonesia.
+- Best Product "Resikel" App by TALENTA Team at Infinite Learning Indonesia.
 
 <h1 align="center"> Skill Set 🛠</h1>
 <p align="center"> Skills in Python, Machine Learning, Data Analysis, and more</p>
