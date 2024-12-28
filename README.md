@@ -1,10 +1,63 @@
 
 ## 🚀 About Me
-Hi, I’m Asri Alfajri, and I’m a student at Politeknik Negeri Batam. I'm really into Artificial Intelligence, Data Science, and Data Analysis. To deepen my understanding and skills in these fields, I’ve been actively participating in the Kampus Merdeka program.
+# 💻 **AI Engineer | Machine Learning Enthusiast | Computer Vision | Data Scientist**
 
-I've had the opportunity to join MSIB Batch 5 at StartupCampus, where I focused on Artificial Intelligence Computer Vision. As a part of my final assignment, my team, The Explorers, developed 'Guardian Eyes,' an object detection system designed to identify dangerous objects in public spaces. Then, in MSIB Batch 6 at GreatEdu, I delved into Data Science through a bootcamp, and one of my projects involved predicting CO2 emissions in Rwanda (Judul Proyek: Prediksi Emisi CO2 di Rwanda). This project aimed to develop a machine learning model that could forecast weekly CO2 levels in various locations across the country.
+Hi there! 👋 I'm an **AI Engineer** with a solid educational background in **D4 Teknik Mekatronika** and extensive experience in developing innovative solutions in **Artificial Intelligence (AI)**, **Machine Learning**, and **Computer Vision**. I specialize in creating impactful AI projects and leading teams to success. Here's a glimpse of my journey:
 
-Most recently, I’ve been exploring Advanced Artificial Intelligence in MSIB Batch 7 at InfiniteLearning. To further validate my knowledge and skills, I’ve also earned the Certified Associate Data Scientist (C.ADS) certification from BNSP. I'm excited to continue learning and applying these skills in the future.
+---
+
+### 🚀 **Highlighted Projects**
+
+1. **Klasifikasi Sampah Non-Organik dengan VGG16**
+
+   - Mendukung pengelolaan limbah berkelanjutan di Kota Batam melalui aplikasi “Resikel”, bekerja sama dengan Yayasan Pejantara.
+
+2. **Deteksi Hama pada Daun Caisim**
+
+   - Sistem deteksi hama berbasis AI yang membantu petani lokal mengurangi kerusakan tanaman secara otomatis.
+
+3. **Guardian Eyes**
+
+   - Sistem deteksi multiklas objek berbahaya menggunakan YOLOv8 untuk meningkatkan keamanan ruang publik.
+
+4. **Prediksi Emisi CO2 di Rwanda**
+
+   - Mengembangkan model regresi yang dioptimalkan untuk menghasilkan prediksi akurat berdasarkan data lingkungan.
+
+5. **Object Detection untuk Cacat Produksi**
+
+   - Meningkatkan efisiensi dan kualitas produk di PT Sat Nusapersada melalui deteksi cacat produksi berbasis YOLOv4.
+
+---
+
+### 🌟 **Leadership & Recognition**
+
+- **Project Leader** (2x): Berhasil memimpin tim dalam menyelesaikan proyek-proyek berbasis AI dengan hasil yang memuaskan.
+- **Kepala Suku MSIB Batch 5**: Berperan sebagai penghubung antara peserta dan penyelenggara program, memastikan kelancaran koordinasi.
+- **Best Participant Artificial Intelligence Track** (MSIB Startup Campus): Pengakuan atas performa luar biasa dalam menyelesaikan tantangan AI.
+- **Most Favorite Mentee AAI** (Infinite Learning Indonesia): Dihargai atas dedikasi dan pencapaian luar biasa selama program.
+- **Rekomendasi Kerja dari Startup Campus**: Penghargaan atas kinerja yang unggul di program MSIB StartupCampus Batch 5 AI Track.
+- **Best Product Award** (Infinite Learning Indonesia): Diberikan kepada project “Resikel” bersama tim TALENTA.
+
+---
+
+### 💼 **What I Bring to the Table**
+
+With a proven track record of delivering impactful AI solutions, I am committed to:
+
+- **Driving innovation** with AI-powered applications.
+- **Solving complex problems** through data-driven approaches.
+- **Collaborating effectively** with teams to achieve shared goals.
+
+Feel free to reach out if you'd like to discuss AI projects, collaboration opportunities, or how I can contribute to your organization's success. Let's create something extraordinary together! 🚀
+
+---
+
+### 📫 **Connect with Me**
+
+- **GitHub**: [Your GitHub Profile Link]
+- **LinkedIn**: [Your LinkedIn Profile Link]
+- **Email**: [Your Email Address]
 
 ## Certification
 - Certified Associate Data Scientist (C.ADS) by BNSP 
