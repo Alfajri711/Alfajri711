@@ -76,7 +76,7 @@ Feel free to reach out if you have any questions or would like to collaborate on
 
 - **Email**: muhammadasrialfajri@gmail.com
 - **LinkedIn**: www.linkedin.com/in/muhammadasrialfajri
-- **GitHub**: https://github.com/Alfajri711/Alfajri711
+- **GitHub**: https://github.com/Alfajri711
 
 ---
 
