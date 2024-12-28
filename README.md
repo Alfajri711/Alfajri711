@@ -74,9 +74,9 @@ I'm an AI Engineer with a passion for solving real-world problems using machine 
 ### 📫 **Contact Me**
 Feel free to reach out if you have any questions or would like to collaborate on any AI/ML projects!
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Email**: muhammadasrialfajri@gmail.com
+- **LinkedIn**: www.linkedin.com/in/muhammadasrialfajri
+- **GitHub**: https://github.com/Alfajri711/Alfajri711
 
 ---
 
