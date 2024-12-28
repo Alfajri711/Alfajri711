@@ -1,5 +1,3 @@
-
-## 🚀 About Me
 # 💻 **AI Engineer | Machine Learning Enthusiast | Computer Vision | Data Scientist**
 
 Hi there! 👋 I'm an **AI Engineer** with a solid educational background in **D4 Teknik Mekatronika** and extensive experience in developing innovative solutions in **Artificial Intelligence (AI)**, **Machine Learning**, and **Computer Vision**. I specialize in creating impactful AI projects and leading teams to success. Here's a glimpse of my journey:
