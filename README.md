@@ -1,62 +1,86 @@
-# 💻 **AI Engineer | Machine Learning Enthusiast | Computer Vision | Data Scientist**
+# 👋 **Welcome to My AI & Machine Learning Projects Portfolio**
 
-Hi there! 👋 I'm an **AI Engineer** with a solid educational background in **D4 Teknik Mekatronika** and extensive experience in developing innovative solutions in **Artificial Intelligence (AI)**, **Machine Learning**, and **Computer Vision**. I specialize in creating impactful AI projects and leading teams to success. Here's a glimpse of my journey:
+I'm an AI Engineer with a passion for solving real-world problems using machine learning and deep learning techniques. Below are some of the projects I've worked on, showcasing my skills and expertise in various domains like image classification, predictive modeling, and AI-driven solutions.
 
 ---
 
 ### 🚀 **Highlighted Projects**
 
-1. **Klasifikasi Sampah Non-Organik dengan VGG16**
+#### 1. **Churn Prediction in Bank Services (Dec 2024)**
+- **Objective**: Predict customer churn based on demographic and behavioral data.
+- **Models Used**: Logistic Regression, KNN, Random Forest.
+- **Results**: Random Forest achieved the best performance with an accuracy of 86.84%, recall of 0.47, and a high F1-score.
+- **Tools & Techniques**: Data analysis, classification algorithms.
 
-   - Mendukung pengelolaan limbah berkelanjutan di Kota Batam melalui aplikasi “Resikel”, bekerja sama dengan Yayasan Pejantara.
+#### 2. **Image Classification for Inorganic Waste (Oct - Dec 2024)**
+- **Objective**: Classify inorganic waste images using CNN and VGG16 with modifications to prevent overfitting.
+- **Dataset**: 6000+ images with classes like Plastic, Glass, Cans, etc.
+- **Results**: The model achieved 87% accuracy on test data.
+- **Tools & Techniques**: CNN, VGG16, Roboflow for dataset annotation.
 
-2. **Deteksi Hama pada Daun Caisim**
+#### 3. **Human Fall Detection Using CNN + LSTM (Dec 2024)**
+- **Objective**: Detect human falls for safety purposes.
+- **Dataset**: 4000+ training data with human pose features.
+- **Results**: 80% accuracy achieved.
+- **Future Plan**: Improve model performance for real-world applications.
 
-   - Sistem deteksi hama berbasis AI yang membantu petani lokal mengurangi kerusakan tanaman secara otomatis.
+#### 4. **Anime Character Generation Using DCGAN (Nov 2024)**
+- **Objective**: Generate high-quality anime characters using Generative Adversarial Networks (GANs).
+- **Tools Used**: Python, TensorFlow, Google Colab.
+- **Model**: Deep Convolutional GAN (DCGAN).
 
-3. **Guardian Eyes**
+#### 5. **Pest Detection on Caisim Leaves Using VGG16 (Sep - Oct 2024)**
+- **Objective**: Detect pests on Caisim leaves.
+- **Dataset**: 1000+ images of healthy and affected leaves.
+- **Results**: 97% accuracy using VGG16.
+- **Tools & Techniques**: ImageDataGenerator, VGG16, data augmentation.
 
-   - Sistem deteksi multiklas objek berbahaya menggunakan YOLOv8 untuk meningkatkan keamanan ruang publik.
+#### 6. **Employee Attrition Prediction (Sep 2024)**
+- **Objective**: Predict employee attrition using HR data.
+- **Model Used**: Logistic Regression with 85% accuracy.
+- **Insights**: Factors like low salary, young age, and low performance score are key attrition indicators.
 
-4. **Prediksi Emisi CO2 di Rwanda**
+#### 7. **MNIST Digit Classification Using PyTorch (Aug 2024)**
+- **Objective**: Build a high-accuracy digit classifier for the MNIST dataset using Fully Connected Neural Networks (FCNN).
+- **Results**: Achieved 97.5% accuracy.
+- **Tools Used**: PyTorch, Adam optimizer, Cross-Entropy Loss.
 
-   - Mengembangkan model regresi yang dioptimalkan untuk menghasilkan prediksi akurat berdasarkan data lingkungan.
+#### 8. **CO2 Emissions Prediction in Rwanda (May - Jun 2024)**
+- **Objective**: Predict CO2 emissions in Rwanda and analyze the pandemic's impact.
+- **Models Used**: XGBoost, Random Forest.
+- **Tools**: Streamlit for interactive visualization.
 
-5. **Object Detection untuk Cacat Produksi**
+#### 9. **Suspicious Object Detection Using YOLOv8 (Oct - Dec 2023)**
+- **Objective**: Detect dangerous items in public spaces.
+- **Approach**: Transfer learning with YOLOv8, dataset annotation, and model improvement.
 
-   - Meningkatkan efisiensi dan kualitas produk di PT Sat Nusapersada melalui deteksi cacat produksi berbasis YOLOv4.
+#### 10. **Flood Prediction in Palangkaraya Using Fuzzy Algorithm (Mar - May 2023)**
+- **Objective**: Predict floods using fuzzy algorithms and artificial neural networks (ANN).
+- **Deliverables**: Flood prediction program, guide video, and manual book.
+- **Tools**: Anaconda, Google Colab.
 
 ---
 
-### 🌟 **Leadership & Recognition**
+### 🌟 **Skills & Tools**
 
-- **Project Leader** (2x): Berhasil memimpin tim dalam menyelesaikan proyek-proyek berbasis AI dengan hasil yang memuaskan.
-- **Kepala Suku MSIB Batch 5**: Berperan sebagai penghubung antara peserta dan penyelenggara program, memastikan kelancaran koordinasi.
-- **Best Participant Artificial Intelligence Track** (MSIB Startup Campus): Pengakuan atas performa luar biasa dalam menyelesaikan tantangan AI.
-- **Most Favorite Mentee AAI** (Infinite Learning Indonesia): Dihargai atas dedikasi dan pencapaian luar biasa selama program.
-- **Rekomendasi Kerja dari Startup Campus**: Penghargaan atas kinerja yang unggul di program MSIB StartupCampus Batch 5 AI Track.
-- **Best Product Award** (Infinite Learning Indonesia): Diberikan kepada project “Resikel” bersama tim TALENTA.
-
----
-
-### 💼 **What I Bring to the Table**
-
-With a proven track record of delivering impactful AI solutions, I am committed to:
-
-- **Driving innovation** with AI-powered applications.
-- **Solving complex problems** through data-driven approaches.
-- **Collaborating effectively** with teams to achieve shared goals.
-
-Feel free to reach out if you'd like to discuss AI projects, collaboration opportunities, or how I can contribute to your organization's success. Let's create something extraordinary together! 🚀
+- **Programming Languages**: Python, R, SQL
+- **Libraries & Frameworks**: TensorFlow, PyTorch, scikit-learn, Keras, OpenCV
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+- **Modeling & Algorithms**: Classification, Regression, CNN, LSTM, GANs, Random Forest, XGBoost
+- **Tools**: Google Colab, Anaconda, Streamlit, Roboflow, KNIME, DBeaver
 
 ---
 
-### 📫 **Connect with Me**
+### 📫 **Contact Me**
+Feel free to reach out if you have any questions or would like to collaborate on any AI/ML projects!
 
-- **GitHub**: [Your GitHub Profile Link]
-- **LinkedIn**: [Your LinkedIn Profile Link]
-- **Email**: [Your Email Address]
+- **Email**: [Your Email]
+- **LinkedIn**: [Your LinkedIn Profile]
+- **GitHub**: [Your GitHub Profile]
 
+---
+
+### 🏆 **Certifications & Achievements**
 ## Certification
 - Certified Associate Data Scientist (C.ADS) by BNSP 
 - [MSIB Batch 6] Data Science Bootcamp by GreatEdu 
@@ -70,7 +94,9 @@ Feel free to reach out if you'd like to discuss AI projects, collaboration oppor
 - Data Science Track Mini Camp by Startup Campus. 
 
 ## Achievement
-Best Participant Artificial Intelligence Track MSIB Batch 5 at Startup Campus. 
+- Best Participant Artificial Intelligence Track MSIB Batch 5 at Startup Campus. 
+= Most Favorite Mentee IBM Advance Artificial Intelligence at Infinite Learning Indonesia.
+= Best Product "Resikel" App by TALENTA Team at Infinite Learning Indonesia.
 
 <h1 align="center"> Skill Set 🛠</h1>
 <p align="center"> Skills in Python, Machine Learning, Data Analysis, and more</p>
