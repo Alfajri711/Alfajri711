@@ -13,8 +13,9 @@ I'm an AI Engineer with a passion for solving real-world problems using machine 
 #### Project Machine Learning & Data Science
 1. Analysis of Users who Stopped Using Bank Services (Churn Prediction) Using Logistic Regression, KNN, and Random Forest for Comparison
 2. Employee Attrition Prediction Using Logistic Regression and HR Analytics
-3. Predict CO2 Emissions in Rwanda (Regression) Using XGBoost and RandomForest for Comparison
-4. Mempelajari Elbow Method untuk Clustering Data Acak Menggunakan K-MeansLearning Elbow Method for Random Data Clustering Using K-Means
+3. Credit Card Fraud Detection Project: Unlocking Insights for Safer Transactions Using SVM and Decision Tree for Comparison
+4. Predict CO2 Emissions in Rwanda (Regression) Using XGBoost and RandomForest for Comparison
+5. Mempelajari Elbow Method untuk Clustering Data Acak Menggunakan K-MeansLearning Elbow Method for Random Data Clustering Using K-Means
 
 #### Project Deep Learning & AI 
 1. Guardian Eyes: Automatic Detection of Suspicious Objects in Public Spaces Using YOLOv8
