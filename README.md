@@ -6,58 +6,27 @@ I'm an AI Engineer with a passion for solving real-world problems using machine 
 
 ### 🚀 **Highlighted Projects**
 
-#### 1. **Human Fall Detection Using CNN + LSTM (Dec 2024)**
-- **Objective**: Detect human falls for safety purposes.
-- **Dataset**: 4000+ training data with human pose features.
-- **Results**: 80% accuracy achieved.
-- **Future Plan**: Improve model performance for real-world applications.
+#### Project Data Analyst
+1. Dashboard Penjualan Warmindo Tahun 2022 Menggunakan Google Looker Studio
+2. Dashboard Persebaran Emisi CO2 di Negara Rwanda Menggunakan Google Looker Studio
 
-#### 2. **Anime Character Generation Using DCGAN (Nov 2024)**
-- **Objective**: Generate high-quality anime characters using Generative Adversarial Networks (GANs).
-- **Tools Used**: Python, TensorFlow, Google Colab.
-- **Model**: Deep Convolutional GAN (DCGAN).
+#### Project Machine Learning & Data Science
+1. Analysis of Users who Stopped Using Bank Services (Churn Prediction) Using Logistic Regression, KNN, and Random Forest for Comparison
+2. Employee Attrition Prediction Using Logistic Regression and HR Analytics
+3. Predict CO2 Emissions in Rwanda (Regression) Using XGBoost and RandomForest for Comparison
+4. Mempelajari Elbow Method untuk Clustering Data Acak Menggunakan K-MeansLearning Elbow Method for Random Data Clustering Using K-Means
 
-#### 3. **Image Classification for Inorganic Waste (Oct - Dec 2024)**
-- **Objective**: Classify inorganic waste images using CNN and VGG16 with modifications to prevent overfitting.
-- **Dataset**: 6000+ images with classes like Plastic, Glass, Cans, etc.
-- **Results**: The model achieved 87% accuracy on test data.
-- **Tools & Techniques**: CNN, VGG16, Roboflow for dataset annotation.
-
-#### 4. **Pest Detection on Caisim Leaves Using VGG16 (Sep - Oct 2024)**
-- **Objective**: Detect pests on Caisim leaves.
-- **Dataset**: 1000+ images of healthy and affected leaves.
-- **Results**: 97% accuracy using VGG16.
-- **Tools & Techniques**: ImageDataGenerator, VGG16, data augmentation.
-
-#### 5. **CO2 Emissions Prediction in Rwanda (May - Jun 2024)**
-- **Objective**: Predict CO2 emissions in Rwanda and analyze the pandemic's impact.
-- **Models Used**: XGBoost, Random Forest.
-- **Tools**: Streamlit for interactive visualization.
-
-#### 6. **Churn Prediction in Bank Services (Dec 2023)**
-- **Objective**: Predict customer churn based on demographic and behavioral data.
-- **Models Used**: Logistic Regression, KNN, Random Forest.
-- **Results**: Random Forest achieved the best performance with an accuracy of 86.84%, recall of 0.47, and a high F1-score.
-- **Tools & Techniques**: Data analysis, classification algorithms.
-
-#### 7. **Suspicious Object Detection Using YOLOv8 (Oct - Dec 2023)**
-- **Objective**: Detect dangerous items in public spaces.
-- **Approach**: Transfer learning with YOLOv8, dataset annotation, and model improvement.
-
-#### 8. **Employee Attrition Prediction (Sep 2023)**
-- **Objective**: Predict employee attrition using HR data.
-- **Model Used**: Logistic Regression with 85% accuracy.
-- **Insights**: Factors like low salary, young age, and low performance score are key attrition indicators.
-
-#### 9. **MNIST Digit Classification Using PyTorch (Aug 2023)**
-- **Objective**: Build a high-accuracy digit classifier for the MNIST dataset using Fully Connected Neural Networks (FCNN).
-- **Results**: Achieved 97.5% accuracy.
-- **Tools Used**: PyTorch, Adam optimizer, Cross-Entropy Loss.
-
-#### 10. **Flood Prediction in Palangkaraya Using Fuzzy Algorithm (Mar - May 2023)**
-- **Objective**: Predict floods using fuzzy algorithms and artificial neural networks (ANN).
-- **Deliverables**: Flood prediction program, guide video, and manual book.
-- **Tools**: Anaconda, Google Colab.
+#### Project Deep Learning & AI 
+1. Guardian Eyes: Automatic Detection of Suspicious Objects in Public Spaces Using YOLOv8
+2. Klasifikasi Gambar Sampah Anorganik dengan CNN + VGG16 Modifikasi Layer pada Aplikasi "Resikel"
+3. Deteksi Hama Daun Caisim (Sawi Hijau) Menggunakan VGG16
+4. Forest Fire Detection Using CNN Technology and Streamlit Cloud as Deployment
+5. Turning Data into Diagnosis: Deep Learning CNN for Brain Tumor Classification
+6. YOLOv8 Object Detection for Parking Lot Occupancy
+7. Motion Matters: Human Fall Detection Classification for Safety Insight Using CNN + LSTM
+8. Anime Character Generation Using Deep Convolutional Generative Adversarial Network (DCGAN)
+9. Multi Architecture Experiments for MNIST Classification with PyTorch
+10. Building High-Accuracy Digit Classifiers with PyTorch: A Deep Dive into MNIST Using FCNN by PyTorch
 
 ---
 
