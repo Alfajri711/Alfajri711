@@ -55,7 +55,8 @@ Feel free to reach out if you have any questions or would like to collaborate on
 - Certified Associate Data Scientist (C.ADS) by BNSP 
 - [MSIB Batch 6] Data Science Bootcamp by GreatEdu 
 - [MSIB Batch 5] Artificial Intelligence Computer Vision by Startup Campus. 
-- Basic Proficiency in KNIME Analytics Platform 
+- Basic Proficiency in KNIME Analytics Platform
+- Learning Data Analytics by NASBA & LinkedIn
 - Belajar Dasar Visualisasi Data by Dicoding Indonesia 
 - DSF 17 - Data Science by Dibimbing.id. 
 - Introduction to SQL by MySkill. 
