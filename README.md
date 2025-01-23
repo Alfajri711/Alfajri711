@@ -36,7 +36,11 @@ I'm an AI Engineer with a passion for solving real-world problems using machine 
 - **Programming Languages**: Python, R, SQL
 - **Libraries & Frameworks**: TensorFlow, PyTorch, scikit-learn, Keras, OpenCV
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **Modeling & Algorithms**: Classification, Regression, CNN, LSTM, GANs, Random Forest, XGBoost
+- **Modeling & Algorithms**:
+  - Detection: YOLOv5, YOLOv8, YOLOv11.
+  - Classification: CNN, VGG,Random Forest, Decision Tree, SVM, XGBoost, RNN.
+  - Regression: Linear Regression, Logistic Regression, ARIMA.
+  - Generative: GANs.
 - **Tools**: Google Colab, Anaconda, Streamlit, Roboflow, KNIME, DBeaver
 
 ---
