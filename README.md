@@ -9,7 +9,7 @@ I'm an AI Engineer with a passion for solving real-world problems using machine 
 #### Project Data Analyst
 1. Dashboard Penjualan Warmindo Tahun 2022 Menggunakan Google Looker Studio
 2. Dashboard Persebaran Emisi CO2 di Negara Rwanda Menggunakan Google Looker Studio
-3. Dashboard Persebaran Virus COVID-18 di Indonesia Menggunakan Tableau dan PowerBI
+3. Dashboard Persebaran Virus COVID-19 di Indonesia Menggunakan Tableau dan PowerBI
 
 #### Project Machine Learning & Data Science
 1. Analysis of Users who Stopped Using Bank Services (Churn Prediction) Using Logistic Regression, KNN, and Random Forest for Comparison
